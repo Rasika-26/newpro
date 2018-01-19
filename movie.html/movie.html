@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>movie</title>
+<meta name="discription"content="add movie">
+<meta charset="utf-8">
+<link rel="stylesheet" href="reset.css"/>
+<link rel="stylesheet" href="movie.css"/>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300"/>
+
+</head>
+<body>
+  <header>
+  <img class ="logo fleft" src="images/projector-logo.png" alt="logo"/>
+  <ul class="fright">
+    <nav>
+      <ul>
+    <li><a href="#">home</a></li>
+    <li><a href="#"> add movie</a></li>
+  </ul>
+</nav>
+</header>
+<ul class="clearfix"></ul>
+<h2> add  A movie</h2>
+<form  class="add_movie_form"action="/sample_action">
+<ul>
+  <li>
+<lable for="movie name">movie name</lable>
+<input type="text" name="moviename">
+</li>
+</ul>
+<ul>
+  <li>
+
+<lable for="release year">release year</lable>
+<input type="text" name="release">
+</ul>
+</li>
+<ul>
+<li>
+  <div class="language_div">
+<lable for="language">language</lable>
+<select name="language">
+<option value="tamil">tamil</option>
+<option value="hindi">hindi</option>
+<option value="english">english</option>
+
+</select>
+</div>
+</li>
+</ul>
+<div class="divide">
+<li>
+<lable for="rating">rating</lable>
+<select name="rating">
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+</select>
+</div>
+</li>
+<li>
+  <label for="url">thumbnail url</lable>
+  <input type="url"name="thumbnail url">
+</li>
+<lable for="plot">plot</plot>
+  <textarea name="plot" rows="5"></textarea>
+<li>
+  <lable for="poster url">poster url</lable>
+  <input type="url"name="poster url">
+</li>
+<li>
+  <lable for="cast">plot</plot>
+    <textarea name="cast"rows="5"></textarea>
+  </li>
+  <li>
+    <button type="submit" value="submit">save</button>
+  </li>
+</body>
+</html>

@@ -1,0 +1,71 @@
+.logo{
+  width:200px;
+}
+.fright{
+  float:right;
+}
+.fleft{
+  float:left;
+}
+.clearfix{
+  clear:both;
+}
+body{
+  font-family:'lato';
+  background-color: #442D4B;
+  color:white;
+}
+header{
+  padding:50px;
+  height: 30px;
+}
+header ul li{
+  display:inline-block;
+  padding:20px 30px;
+}
+header ul li a{
+  color:#ffcb59;
+  text-decoration-color: blue;
+  font-size: 40px;
+}
+.add_movie_form{
+  width:500px;
+  margin:0 auto;
+
+}
+.add_movie_form h2{
+  text-align:center;
+  font-size:30px;
+  margin-bottom:20px;
+}
+.add_movie_form label, .add_movie_form input{
+  display:block;
+}
+.add_movie_form input, .add_movie_form textarea, .add_movie_form select{
+  width:100%;
+  background:#442D4B;
+  border:1Px solid white;
+  margin:7px 0 15px;
+  color:white;
+  padding:0 5px;
+  font-size: 19px;
+  font-family: inherit;
+}
+.add_movie_form input{
+  height:40px;
+}
+.divide{
+  dislplay:inline-block;
+  width:50%;
+}
+.add_movie_form button{
+  background-color: yellow;
+  displain:inline-block
+}
+.language_div{
+  padding_left:0;
+
+}
+form{
+  white-space:nowrap;
+}
