@@ -1,0 +1,94 @@
+var movieArr=[
+{
+ "movie":"aruvi",
+"year":"2017",
+"rating":"5",
+"language":"tamil",
+},
+{
+
+ "movie":"bahubali",
+"year":"2017",
+"rating":"5",
+"language":"tamil",
+},
+{
+
+ "movie":"2.2",
+"year":"2017",
+"rating":"5",
+"language":"tamil",
+},
+{
+
+ "movie":"mersal",
+"year":"2017",
+"rating":"5",
+"language":"tamil",
+},
+{
+
+ "movie":"vivegam",
+"year":"2017",
+"rating":"5",
+"language":"tamil",
+},
+{
+
+ "movie":"BB",
+"year":"2017",
+"rating":"5",
+"language":"hindi",
+},
+{
+
+ "movie":" B i fall",
+"year":"2017",
+"rating":"5",
+"language":"hindi",
+},{
+
+ "movie":"last world",
+"year":"2017",
+"rating":"5",
+"language":"hindi",
+},{
+
+ "movie":"my scientology",
+"year":"2017",
+"rating":"5",
+"language":"hindi",
+},{
+
+ "movie":"donald cried",
+"year":"2017",
+"rating":"5",
+"language":"hindi",
+},{
+
+ "movie":"bahubali",
+"year":"2017",
+"rating":"5",
+"language":"English",
+},
+{
+
+ "movie":"tubelight",
+"year":"2017",
+"rating":"5",
+"language":"English",
+},
+{
+
+ "movie":"tiger zindahai",
+"year":"2017",
+"rating":"5",
+"language":"english",
+},
+{
+
+ "movie":"fukrey returns",
+"year":"2017",
+"rating":"5",
+"language":"English",
+}];
